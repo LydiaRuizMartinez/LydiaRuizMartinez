@@ -1,7 +1,7 @@
 # Lydia Ruiz Martínez
 
 **Estudiante de Ingeniería Matemática e Inteligencia Artificial**
-### Lengaujes de Programación:
+### Lenguajes de programación con los que he trabajado:
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Matlab](https://img.shields.io/badge/-Matlab-0076A8?style=flat&logo=mathworks&logoColor=white)
 ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
