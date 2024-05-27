@@ -1,6 +1,10 @@
 # Lydia Ruiz Martínez
 
 **Estudiante de Ingeniería Matemática e Inteligencia Artificial**
+
+![Mis estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=LydiaRuizMartinez&count_private=true&show_icons=true&theme=cobalt)
+
+
 ---
 ### Lenguajes de programación y otras herramientas con las que he trabajado:
 <div>
@@ -16,5 +20,4 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="40" height="40" title="Bash" alt="Bash" style="padding-right:10px;"/>&nbsp;
 </div>
 
-![Mis estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=LydiaRuizMartinez&count_private=true&show_icons=true&theme=cobalt)
 
