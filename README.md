@@ -1,5 +1,5 @@
 # Lydia Ruiz Martínez
----
+
 **Estudiante de Ingeniería Matemática e Inteligencia Artificial**
 ---
 ### Lenguajes de programación y otras herramientas:
