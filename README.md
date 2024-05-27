@@ -1,6 +1,7 @@
 # Lydia Ruiz Martínez
 ---
 **Estudiante de Ingeniería Matemática e Inteligencia Artificial**
+---
 ### Lenguajes de programación y otras herramientas:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="40" height="40" title="Python" alt="Python" style="padding-right:10px;"/>&nbsp;
