@@ -15,5 +15,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="40" height="40" title="Linux" alt="Linux" style="padding-right:10px;"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="40" height="40" title="Bash" alt="Bash" style="padding-right:10px;"/>&nbsp;
 </div>
+
 ![Mis estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=LydiaRuizMartinez&count_private=true&show_icons=true&theme=cobalt)
 
