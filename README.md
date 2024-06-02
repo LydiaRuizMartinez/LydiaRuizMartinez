@@ -3,6 +3,7 @@
 ### **`Estudiante de Ingeniería Matemática e Inteligencia Artificial`**
 ✉️ [202213363@alu.comillas.edu](mailto:202213363@alu.comillas.edu)  
 
+---
 ![Mis estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=LydiaRuizMartinez&count_private=true&show_icons=true&theme=cobalt)
 
 
