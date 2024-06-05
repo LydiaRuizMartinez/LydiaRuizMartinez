@@ -1,7 +1,7 @@
 # Lydia Ruiz Martínez
 
 ### **`Estudiante de Ingeniería Matemática e Inteligencia Artificial`**
-✉️ [202213363@alu.comillas.edu](mailto:202213363@alu.comillas.edu)  
+✉️ [lydia.ruiz.mart@gmail.com](mailto:lydia.ruiz.mart@gmail.com)  
 
 ---
 ![Mis estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=LydiaRuizMartinez&count_private=true&show_icons=true&theme=cobalt)
