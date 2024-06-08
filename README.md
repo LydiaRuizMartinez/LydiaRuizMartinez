@@ -1,4 +1,4 @@
-# <span style="color:blue"> Lydia Ruiz Martínez
+# <span style="color:blue">Lydia Ruiz Martínez</span>
 
 ### **`Estudiante de Ingeniería Matemática e Inteligencia Artificial`**
 ✉️ [lydia.ruiz.mart@gmail.com](mailto:lydia.ruiz.mart@gmail.com)  
