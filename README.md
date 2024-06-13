@@ -2,7 +2,11 @@
 
 ### **`Estudiante de Ingeniería Matemática e Inteligencia Artificial`**
 ✉️ [lydia.ruiz.mart@gmail.com](mailto:lydia.ruiz.mart@gmail.com)  
-
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/lydia-ruiz-martínez/?locale=en_US">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a/>
+</div>
 ---
 ![Mis estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=LydiaRuizMartinez&count_private=true&show_icons=true&theme=cobalt)
 
