@@ -17,8 +17,6 @@
 
 ---
 
-
----
 ### Lenguajes de programación y otras herramientas con las que he trabajado:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="40" height="40" title="Python" alt="Python" style="padding-right:10px;"/>&nbsp;
