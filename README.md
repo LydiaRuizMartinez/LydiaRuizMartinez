@@ -2,9 +2,12 @@
 
 ### **`Estudiante de Ingeniería Matemática e Inteligencia Artificial`**
 ✉️ [lydia.ruiz.mart@gmail.com](mailto:lydia.ruiz.mart@gmail.com)  
-<div id="badges" align="center">
+<div id="badges" align="left">
   <a href="https://www.linkedin.com/in/lydia-ruiz-martínez/?locale=en_US">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:lydia.ruiz.mart@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div>
 
