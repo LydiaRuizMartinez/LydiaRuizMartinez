@@ -26,6 +26,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" width="40" height="40" title="Redis" alt="Redis" style="padding-right:10px;"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" width="40" height="40" title="Matlab" alt="Matlab" style="padding-right:10px;"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" width="40" height="40" title="Docker" alt="Docker" style="padding-right:10px;"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" width="40" height="40" title="R" alt="R" style="padding-right:10px;"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40" height="40" title="Git" alt="Git" style="padding-right:10px;"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" title="GitHub" alt="GitHub" style="padding-right:10px;"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="40" height="40" title="Linux" alt="Linux" style="padding-right:10px;"/>&nbsp;
