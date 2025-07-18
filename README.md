@@ -45,6 +45,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40" height="40" title="HTML5" alt="HTML5" style="padding-right:10px;"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40" height="40" title="CSS3" alt="CSS3" style="padding-right:10px;"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="40" height="40" title="Visual Studio Code" alt="Visual Studio Code" style="padding-right:10px;"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/ros-infrastructure/artwork/master/ros_logo/ros_logo.svg" width="40" height="40" title="ROS 2" alt="ROS 2" style="padding-right:10px;" />
 </div>
 
 
