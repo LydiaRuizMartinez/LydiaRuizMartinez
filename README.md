@@ -1,14 +1,12 @@
-<!-- Pétalos cayendo a izquierda y derecha -->
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
-<img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
+<!-- Pétalos más pequeños -->
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" height="110">
+<img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" height="110">
 
-<!-- Título centrado -->
-<p align="center">
-  <h1 align="center">✩&emsp;Lydia Ruiz Martínez&emsp;✩</h1>
-</p>
+<!-- Título (sin <p> envolviendo) -->
+<h1 align="center">✩&emsp;Lydia Ruiz Martínez&emsp;✩</h1>
 
+<!-- Limpia los floats y evita huecos -->
 <br clear="both"/>
-
 ---
 
 ### **`Estudiante de Ingeniería Matemática e Inteligencia Artificial`**
