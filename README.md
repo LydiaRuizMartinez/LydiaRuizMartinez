@@ -3,7 +3,7 @@
 
 <h1 align="center">✩&emsp;Lydia Ruiz Martínez&emsp;✩</h1>
 
-## **`Estudiante de Ingeniería Matemática e Inteligencia Artificial`**
+<h2 align="center"><code>Estudiante de Ingeniería Matemática e Inteligencia Artificial</code></h2>
 
 <div id="badges" align="left">
     <a href="mailto:lydia.ruiz.mart@gmail.com">
