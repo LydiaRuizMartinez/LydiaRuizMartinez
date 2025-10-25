@@ -1,10 +1,7 @@
-<!-- Pétalos más pequeños -->
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" height="120">
-<img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" height="120">
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" height="140">
+<img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" height="140">
 
-<!-- Título (sin <p> envolviendo) -->
 <h1 align="center">✩&emsp;Lydia Ruiz Martínez&emsp;✩</h1>
----
 
 ### **`Estudiante de Ingeniería Matemática e Inteligencia Artificial`**
 
