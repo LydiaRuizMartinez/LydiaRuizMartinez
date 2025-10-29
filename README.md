@@ -16,7 +16,7 @@
 
 ---
 
-![Mis estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=LydiaRuizMartinez&count_private=true&show_icons=true&theme=cobalt)
+![Mis estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=LydiaRuizMartinez&count_private=true&show_icons=true&theme=radical)
 
 ---
 
