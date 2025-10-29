@@ -59,7 +59,7 @@
     <img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" width="40" height="40" title="Seaborn" alt="Seaborn" style="padding-right:10px;"/>&nbsp;
     <img src="https://raw.githubusercontent.com/sagemath/artwork/dc51186a48f46ac9ff29e453491b8daf4c52ca15/sage-logo-2018.svg" width="40" height="40" title="SageMath" alt="SageMath" style="padding-right:10px;"/>&nbsp;
     <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" width="40" height="40" title="Power BI" alt="Power BI" style="padding-right:10px;"/>&nbsp;
-    <img src="https://cdn.simpleicons.org/tableau" width="40" height="40" title="Tableau" alt="Tableau" style="padding-right:10px;"/>&nbsp;
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.svg" width="40" height="40" title="Tableau" alt="Tableau" style="padding-right:10px;"/>&nbsp;
 </div>
 
 
