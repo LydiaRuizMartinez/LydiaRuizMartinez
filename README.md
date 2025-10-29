@@ -41,6 +41,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" width="40" height="40" title="LaTeX" alt="LaTeX" style="padding-right:10px;"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" width="40" height="40" title="Django" alt="Django" style="padding-right:10px;"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="40" height="40" title="Next.js" alt="Next.js" style="padding-right:10px;"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" width="40" height="40" title="Microsoft Azure" alt="Microsoft Azure" style="padding-right:10px;"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" height="40" title="React" alt="React" style="padding-right:10px;"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg" width="40" height="40" title="Grafana" alt="Grafana" style="padding-right:10px;"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" width="40" height="40" title="Unity" alt="Unity" style="padding-right:10px;"/>&nbsp;
@@ -49,7 +50,6 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40" height="40" title="CSS3" alt="CSS3" style="padding-right:10px;"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="40" height="40" title="Visual Studio Code" alt="Visual Studio Code" style="padding-right:10px;"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" width="40" height="40" title="OpenCV" alt="OpenCV" style="padding-right:10px;"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" width="40" height="40" title="Microsoft Azure" alt="Microsoft Azure" style="padding-right:10px;"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original-wordmark.svg" width="40" height="40" title="Apache Kafka" alt="Apache Kafka" style="padding-right:10px;"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" width="40" height="40" title="Postman" alt="Postman" style="padding-right:10px;"/>&nbsp;
 
