@@ -55,7 +55,9 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" width="40" height="40" title="OpenCV" alt="OpenCV" style="padding-right:10px;"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original-wordmark.svg" width="40" height="40" title="Apache Kafka" alt="Apache Kafka" style="padding-right:10px;"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" width="40" height="40" title="Postman" alt="Postman" style="padding-right:10px;"/>&nbsp;
-
+    <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" width="40" height="40" title="Matplotlib" alt="Matplotlib" style="padding-right:10px;"/>&nbsp;
+    <img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" width="40" height="40" title="Seaborn" alt="Seaborn" style="padding-right:10px;"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/sagemath/artwork/dc51186a48f46ac9ff29e453491b8daf4c52ca15/sage-logo-2018.svg" width="40" height="40" title="SageMath" alt="SageMath" style="padding-right:10px;"/>&nbsp;
 </div>
 
 
