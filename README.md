@@ -52,6 +52,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" width="40" height="40" title="Raspberry Pi" alt="Raspberry Pi" style="padding-right:10px;"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40" height="40" title="HTML5" alt="HTML5" style="padding-right:10px;"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40" height="40" title="CSS3" alt="CSS3" style="padding-right:10px;"/>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ros/ros-original.svg" width="40" height="40" title="ROS" alt="ROS" style="padding-right:10px;"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="40" height="40" title="Visual Studio Code" alt="Visual Studio Code" style="padding-right:10px;"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" width="40" height="40" title="OpenCV" alt="OpenCV" style="padding-right:10px;"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original-wordmark.svg" width="40" height="40" title="Apache Kafka" alt="Apache Kafka" style="padding-right:10px;"/>&nbsp;
