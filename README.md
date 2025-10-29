@@ -33,6 +33,9 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" width="40" height="40" title="R" alt="R" style="padding-right:10px;"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40" height="40" title="Git" alt="Git" style="padding-right:10px;"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" title="GitHub" alt="GitHub" style="padding-right:10px;"/>&nbsp;
+    <img src="https://www.pygame.org/docs/_static/pygame_logo.svg" width="40" height="40" title="Pygame" alt="Pygame" style="padding-right:10px;"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width="40" height="40" title="Pandas" alt="Pandas" style="padding-right:10px;"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" width="40" height="40" title="NumPy" alt="NumPy" style="padding-right:10px;"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="40" height="40" title="Linux" alt="Linux" style="padding-right:10px;"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="40" height="40" title="Bash" alt="Bash" style="padding-right:10px;"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" title="AWS" alt="AWS" style="padding-right:10px;"/>&nbsp;
