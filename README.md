@@ -44,6 +44,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" width="40" height="40" title="LaTeX" alt="LaTeX" style="padding-right:10px;"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" width="40" height="40" title="Django" alt="Django" style="padding-right:10px;"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="40" height="40" title="Next.js" alt="Next.js" style="padding-right:10px;"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/sagemath/artwork/dc51186a48f46ac9ff29e453491b8daf4c52ca15/sage-logo-2018.svg" width="40" height="40" title="SageMath" alt="SageMath" style="padding-right:10px;"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" width="40" height="40" title="Microsoft Azure" alt="Microsoft Azure" style="padding-right:10px;"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" height="40" title="React" alt="React" style="padding-right:10px;"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg" width="40" height="40" title="Grafana" alt="Grafana" style="padding-right:10px;"/>&nbsp;
@@ -57,9 +58,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" width="40" height="40" title="Postman" alt="Postman" style="padding-right:10px;"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" width="40" height="40" title="Matplotlib" alt="Matplotlib" style="padding-right:10px;"/>&nbsp;
     <img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" width="40" height="40" title="Seaborn" alt="Seaborn" style="padding-right:10px;"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/sagemath/artwork/dc51186a48f46ac9ff29e453491b8daf4c52ca15/sage-logo-2018.svg" width="40" height="40" title="SageMath" alt="SageMath" style="padding-right:10px;"/>&nbsp;
     <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" width="40" height="40" title="Power BI" alt="Power BI" style="padding-right:10px;"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="40" height="40" title="Tableau" alt="Tableau" style="padding-right:10px;"/>&nbsp;
 </div>
 
 
