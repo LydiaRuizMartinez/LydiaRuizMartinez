@@ -64,9 +64,6 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40" title="JavaScript" alt="JavaScript" style="padding-right:10px;"/>&nbsp;
     <img src="https://raw.githubusercontent.com/pytest-dev/pytest/main/doc/en/_static/pytest1.png" width="40" height="40" title="pytest" alt="pytest" style="padding-right:10px;"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original.svg" width="40" height="40" title="PySpark" alt="PySpark" style="padding-right:10px;"/>&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Qiskit-Logo.svg/512px-Qiskit-Logo.svg.png"
-     width="40" height="40" title="Qiskit" alt="Qiskit" style="padding-right:10px;"/>&nbsp;
-
 </div>
 
 
