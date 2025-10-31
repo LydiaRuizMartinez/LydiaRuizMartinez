@@ -52,6 +52,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" width="40" height="40" title="Raspberry Pi" alt="Raspberry Pi" style="padding-right:10px;"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40" height="40" title="HTML5" alt="HTML5" style="padding-right:10px;"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40" height="40" title="CSS3" alt="CSS3" style="padding-right:10px;"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40" title="JavaScript" alt="JavaScript" style="padding-right:10px;"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ros/ros-original.svg" width="40" height="40" title="ROS" alt="ROS" style="padding-right:10px;"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="40" height="40" title="Visual Studio Code" alt="Visual Studio Code" style="padding-right:10px;"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" width="40" height="40" title="OpenCV" alt="OpenCV" style="padding-right:10px;"/>&nbsp;
@@ -61,7 +62,6 @@
     <img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" width="40" height="40" title="Seaborn" alt="Seaborn" style="padding-right:10px;"/>&nbsp;
     <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" width="40" height="40" title="Power BI" alt="Power BI" style="padding-right:10px;"/>&nbsp;
     <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40" height="40" title="Hugging Face" alt="Hugging Face" style="padding-right:10px;"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40" title="JavaScript" alt="JavaScript" style="padding-right:10px;"/>&nbsp;
     <img src="https://raw.githubusercontent.com/pytest-dev/pytest/main/doc/en/_static/pytest1.png" width="40" height="40" title="pytest" alt="pytest" style="padding-right:10px;"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original.svg" width="40" height="40" title="PySpark" alt="PySpark" style="padding-right:10px;"/>&nbsp;
 </div>
