@@ -60,6 +60,18 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" width="40" height="40" title="Matplotlib" alt="Matplotlib" style="padding-right:10px;"/>&nbsp;
     <img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" width="40" height="40" title="Seaborn" alt="Seaborn" style="padding-right:10px;"/>&nbsp;
     <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" width="40" height="40" title="Power BI" alt="Power BI" style="padding-right:10px;"/>&nbsp;
+    <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40" height="40" title="Hugging Face" alt="Hugging Face" style="padding-right:10px;"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/wandb/assets/main/wandb-logo-orange.svg" width="40" height="40" title="Weights & Biases" alt="Weights & Biases" style="padding-right:10px;"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/scipy/scipy-original.svg" width="40" height="40" title="SciPy (stats)" alt="SciPy (stats)" style="padding-right:10px;"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40" title="JavaScript" alt="JavaScript" style="padding-right:10px;"/>&nbsp;
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/TkInter.png" width="40" height="40" title="Tkinter" alt="Tkinter" style="padding-right:10px;"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/pytest-dev/pytest/main/doc/en/_static/pytest1.png" width="40" height="40" title="pytest" alt="pytest" style="padding-right:10px;"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original.svg" width="40" height="40" title="PySpark" alt="PySpark" style="padding-right:10px;"/>&nbsp;
+    <img src="https://www.gurobi.com/wp-content/uploads/2023/01/Gurobi-Logo.svg" width="40" height="40" title="Gurobi" alt="Gurobi" style="padding-right:10px;"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/langfuse/langfuse/main/apps/web/public/logo.svg" width="40" height="40" title="Langfuse" alt="Langfuse" style="padding-right:10px;"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/explosion/spaCy/master/website/static/icon.png" width="40" height="40" title="spaCy" alt="spaCy" style="padding-right:10px;"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/Qiskit/qiskit.org/main/assets/images/logo.svg" width="40" height="40" title="Qiskit" alt="Qiskit" style="padding-right:10px;"/>&nbsp;
+
 </div>
 
 
