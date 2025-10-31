@@ -64,30 +64,8 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40" title="JavaScript" alt="JavaScript" style="padding-right:10px;"/>&nbsp;
     <img src="https://raw.githubusercontent.com/pytest-dev/pytest/main/doc/en/_static/pytest1.png" width="40" height="40" title="pytest" alt="pytest" style="padding-right:10px;"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original.svg" width="40" height="40" title="PySpark" alt="PySpark" style="padding-right:10px;"/>&nbsp;
-    <!-- Qiskit -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Qiskit-Logo.svg"
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Qiskit-Logo.svg/512px-Qiskit-Logo.svg.png"
      width="40" height="40" title="Qiskit" alt="Qiskit" style="padding-right:10px;"/>&nbsp;
-
-<!-- spaCy (icono cuadrado del repo) -->
-<img src="https://raw.githubusercontent.com/explosion/spaCy/master/website/static/favicon.svg"
-     width="40" height="40" title="spaCy" alt="spaCy" style="padding-right:10px;"/>&nbsp;
-
-<!-- Langfuse -->
-<img src="https://raw.githubusercontent.com/langfuse/langfuse/main/apps/web/public/logo-icon.svg"
-     width="40" height="40" title="Langfuse" alt="Langfuse" style="padding-right:10px;"/>&nbsp;
-
-<!-- Gurobi (del repo público de ejemplos) -->
-<img src="https://raw.githubusercontent.com/Gurobi/modeling-examples/master/logo.png"
-     width="40" height="40" title="Gurobi" alt="Gurobi" style="padding-right:10px;"/>&nbsp;
-
-<!-- Tkinter (no hay logo oficial: uso el de Python para representar Tkinter) -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"
-     width="40" height="40" title="Tkinter" alt="Tkinter" style="padding-right:10px;"/>&nbsp;
-
-<!-- SciPy -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scipy/scipy-original.svg"
-     width="40" height="40" title="SciPy" alt="SciPy" style="padding-right:10px;"/>&nbsp;
-
 
 </div>
 
